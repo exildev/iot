@@ -49,4 +49,3 @@ void add_array(struct ShortString * str, char * value){
 		i ++;
 	}
 }
-
