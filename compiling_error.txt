@@ -1,0 +1,12 @@
+C:\Users\EXILEB~1\AppData\Local\Temp\ccCJJSMm.o: In function `test':
+C:/Users/Exile Backend/Documents/git/hashtable/main.c:7: undefined reference to `set_keyvalue_hashtable'
+C:\Users\EXILEB~1\AppData\Local\Temp\ccCJJSMm.o: In function `main':
+C:/Users/Exile Backend/Documents/git/hashtable/main.c:13: undefined reference to `create_hashtable'
+C:/Users/Exile Backend/Documents/git/hashtable/main.c:15: undefined reference to `create_sensor'
+C:/Users/Exile Backend/Documents/git/hashtable/main.c:16: undefined reference to `create_sensor'
+C:/Users/Exile Backend/Documents/git/hashtable/main.c:17: undefined reference to `read_sensors'
+C:/Users/Exile Backend/Documents/git/hashtable/main.c:19: undefined reference to `create_shortstring'
+C:/Users/Exile Backend/Documents/git/hashtable/main.c:20: undefined reference to `hashtable_to_string'
+C:/Users/Exile Backend/Documents/git/hashtable/main.c:28: undefined reference to `delete_shortstring'
+C:/Users/Exile Backend/Documents/git/hashtable/main.c:30: undefined reference to `delete_hashtable'
+collect2.exe: error: ld returned 1 exit status
